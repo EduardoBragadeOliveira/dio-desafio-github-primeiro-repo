@@ -1,0 +1,5 @@
+Hello World!
+
+Este é meu primeiro repositório no GitHub e foi feito a partir do desafio da DIO.
+
+O Git foi criado com o intuito de ser um versionador de códigos, e com isso, deixá-los fáceis para serem atualizados posteriormente. Com isso, criou-se o GitHub, que, de certa forma, é uma biblioteca de códigos de vários devs do mundo todo, do qual todos temos acesso.
